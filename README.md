@@ -9,4 +9,4 @@ $ pip install kakaotrans
 
 $ python3 m.py
 ## DEMO
-<image src='./image.png' width='45%'>
+<image src='./image.png' width='100%'>
