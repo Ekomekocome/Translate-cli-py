@@ -7,6 +7,6 @@ $ cd Translate-cli-py
 
 $ pip install kakaotrans
 
-$ python m.py
+$ python3 m.py
 ## DEMO
 <image src='./image.png' width='45%'>
